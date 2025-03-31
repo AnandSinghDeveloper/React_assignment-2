@@ -34,11 +34,11 @@ const Bainer = () => {
          </button>
 
        </div>
-       <div className='whatsapp fixed  h-10 bottom-20  w-15 object-cover h-15 rounded-full overflow-hidden right-5 flex  '>
+       <div className='whatsapp fixed   bottom-20  w-15 object-cover h-15 rounded-full overflow-hidden right-5 flex  '>
         <img src="https://static.vecteezy.com/system/resources/previews/021/495/946/original/whatsapp-logo-icon-free-png.png" alt="whatsapp" />
 
        </div>
-       <div className='whatsapp fixed  h-10 bottom-5 bg-[#00E510]   text-white w-15 h-15 rounded-full  right-5 flex  '>
+       <div className='whatsapp fixed  bottom-5 bg-[#00E510]   text-white w-15 h-15 rounded-full  right-5 flex  '>
         <div className=' w-10 h-10  absolute left-4 rounded-lg rotate-158 bg-[#00E510] top-[-5px]'></div>
         <AiFillMessage style={{ fontSize: "1.5rem", zIndex: 1 , marginTop: "15px"  , marginLeft: "15px" }} />
        </div>
@@ -56,7 +56,7 @@ const Bainer = () => {
 
       <div className='w-full flex justify-center items-center gap-10 mt-10'>
 
-        <div className=' h-150 w-90 border border-[#32C5D2] border-3 flex flex-col Justify-between items-center p-7'>
+        <div className=' h-150 w-90  border-[#32C5D2] border-3 flex flex-col Justify-between items-center p-7'>
 
          <div className='flex flex-col justify-between items-center '>
          <h3 className='text-sm font-[600] text-zinc-700 bg-[#32C5D2] px-3 py-1 '>CAREER REPORT</h3>
